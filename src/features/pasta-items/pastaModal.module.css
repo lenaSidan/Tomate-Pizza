@@ -17,7 +17,7 @@ select {
 .centeredContainer {
 	display: flex;
 	flex-direction: column;
-	align-items: center; /* Центровка по горизонтали */
+	align-items: center;
 	margin-bottom: 20px;
 }
 
@@ -43,6 +43,12 @@ select {
 	font-weight: 600;
 
 	margin-bottom: 10px;
+}
+.description {
+	font-size: 18px;
+	font-style: italic;
+	text-align: center;
+	margin: 16px 0px;
 }
 
 .modalContent {

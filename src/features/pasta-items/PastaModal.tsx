@@ -75,7 +75,7 @@ const PastaModal: React.FC<PastaModalProps> = ({
 					<div className={styles.imageContainer}>
 						<img src={image} alt={name} className={styles.image} />
 					</div>
-					<p>{description}</p>
+					<div className={styles.description}>{description}</div>
 					<div className={styles.typeTitle}>{t('yourTypeOfPasta')}:</div>
 					<div className={styles.ingredientContainer}>
 						{ingredients.map((ingredient) => (

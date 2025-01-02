@@ -85,7 +85,7 @@ const BreadsticksModal: React.FC<BreadsticksModalProps> = ({
 					<div className={styles.imageContainer}>
 						<img src={image} alt={name} className={styles.image} />
 					</div>
-					<p>{description}</p>
+					<div className={styles.description}>{description}</div>
 					<div className={styles.typeTitle}>{t('chooseTwoFreeIngredients')}:</div>
 					<div className={`${styles.ingredientContainer2} ${showAllFree ? styles.scrollable : ''}`}>
 						{[

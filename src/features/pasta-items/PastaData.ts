@@ -48,23 +48,6 @@ const pastas: Pasta[] = [
 		},
 	},
 	{
-		name: 'pastas.FruttiDiMare.name',
-		description: 'pastas.FruttiDiMare.description',
-		image: 'fruttdiMare.webp',
-		price: 11.5,
-		productInfo: {
-			allergens: [
-				'pastas.FruttiDiMare.productInfo.allergens.0',
-				'pastas.FruttiDiMare.productInfo.allergens.1',
-				'pastas.FruttiDiMare.productInfo.allergens.2',
-			],
-			substances: [
-				'pastas.FruttiDiMare.productInfo.substances.0',
-				'pastas.FruttiDiMare.productInfo.substances.1',
-			],
-		},
-	},
-	{
 		name: 'pastas.AlForno.name',
 		description: 'pastas.AlForno.description',
 		image: 'AlForno.webp',
@@ -81,6 +64,24 @@ const pastas: Pasta[] = [
 			],
 		},
 	},
+	{
+		name: 'pastas.FruttiDiMare.name',
+		description: 'pastas.FruttiDiMare.description',
+		image: 'fruttdiMare.webp',
+		price: 11.5,
+		productInfo: {
+			allergens: [
+				'pastas.FruttiDiMare.productInfo.allergens.0',
+				'pastas.FruttiDiMare.productInfo.allergens.1',
+				'pastas.FruttiDiMare.productInfo.allergens.2',
+			],
+			substances: [
+				'pastas.FruttiDiMare.productInfo.substances.0',
+				'pastas.FruttiDiMare.productInfo.substances.1',
+			],
+		},
+	},
+
 	{
 		name: 'pastas.AlFornoChicken.name',
 		description: 'pastas.AlFornoChicken.description',

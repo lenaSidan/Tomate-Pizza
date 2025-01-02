@@ -61,7 +61,7 @@ const MeatDishesModal: React.FC<MeatDishesModalProps> = ({
 					<div className={styles.imageContainer}>
 						<img src={image} alt={name} className={styles.image} />
 					</div>
-					<p>{description}</p>
+					<div className={styles.description}>{description}</div>
 				</div>
 
 				<div className={styles.footer}>
