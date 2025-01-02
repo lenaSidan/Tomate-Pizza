@@ -178,7 +178,7 @@
 		},
 		"PizzaSalami": {
 			"name": "Pizza Salamlı",
-			"description": "Baharatlı domates sosu, peynir ve salam ile",
+			"description": "Baharatlı domates sosu, peynir ve Dana salam ile",
 			"productInfo": {
 				"substances": ["Koruyucu içerir", "Nitrit kürleme tuzu içerir", "Antioksidan içerir"],
 				"allergens": [
@@ -190,7 +190,7 @@
 		},
 		"PizzaProsciutto": {
 			"name": "Pizza Prosciutto",
-			"description": "Baharatlı domates sosu, peynir ve pişmiş jambon ile",
+			"description": "Baharatlı domates sos, peynir ve hindi jambonu ile",
 			"productInfo": {
 				"allergens": [
 					"Gluten içeren tahıllar/ürünler içerir",
@@ -237,7 +237,7 @@
 		},
 		"PizzaBroccoli": {
 			"name": "Pizza Brokoli",
-			"description": "Baharatlı domates sosu, peynir, pişmiş jambon ve brokoli ile",
+			"description": "Baharatlı domates sosu, peynir, hindi jambon ve brokoli ile",
 			"productInfo": {
 				"substances": ["Koruyucu içerir", "Lezzet artırıcı içerir"],
 				"allergens": [
@@ -249,7 +249,7 @@
 		},
 		"PizzaBolognese": {
 			"name": "Pizza Bolonez",
-			"description": "İnce bolonez sosu ve peynir ile",
+			"description": "İnce kıyma ve peynirden yapılmış lezzetli Bolonez sosuyla",
 			"productInfo": {
 				"allergens": [
 					"Gluten içeren tahıllar/ürünler içerir",
@@ -275,7 +275,7 @@
 		},
 		"PizzaHawaii": {
 			"name": "Pizza Hawaii",
-			"description": "Baharatlı domates sosu, peynir, pişmiş jambon ve ananas ile",
+			"description": "Baharatlı domates sosu, peynir, hindi jambonu ve ananas ile",
 			"productInfo": {
 				"substances": ["Koruyucu içerir", "Lezzet artırıcı içerir"],
 				"allergens": [
@@ -301,7 +301,7 @@
 		},
 		"PizzaQuattroStagioni": {
 			"name": "Pizza Quattro Stagioni",
-			"description": "Baharatlı domates sosu, peynir, ıspanak, salam, jambon, mantar ve soğan ile",
+			"description": "Baharatlı domates sosu, peynir, ıspanak, dana salamı, hindi jambonu, mantar ve soğan ile",
 			"productInfo": {
 				"substances": [
 					"Koruyucu içerir",
@@ -317,8 +317,8 @@
 			}
 		},
 		"PizzaSchinkenSalami": {
-			"name": "Pizza Jambon-Salam",
-			"description": "Pişmiş jambon, salam ve dolmalık biber ile",
+			"name": "Pizza Dana-Salam",
+			"description": "Hindi jambonu, dana salamı ve acı biber ile",
 			"productInfo": {
 				"substances": [
 					"Renklendirici içerir",
@@ -336,7 +336,7 @@
 		},
 		"PizzaDiavolo": {
 			"name": "Pizza Diavolo",
-			"description": "Baharatlı domates sosu, peynir, salam, dolmalık biber, soğan ve jalapeno ile",
+			"description": "Baharatlı domates sosu, peynir, dana salamı, dolmalık biber, soğan ve jalapeno ile",
 			"productInfo": {
 				"substances": ["Koruyucu içerir", "Nitrit kürleme tuzu içerir", "Antioksidan içerir"],
 				"allergens": [
@@ -416,7 +416,7 @@
 		},
 		"PizzaSardellen": {
 			"name": "Pizza Ançuez",
-			"description": "Ançuez, salam, dolmalık biber, zeytin ve sarımsak ile",
+			"description": "Ançuez, dana salamı, dolmalık biber, zeytin ve sarımsak ile",
 			"productInfo": {
 				"substances": ["Nitrit kürleme tuzu ve nitrat içerir", "İçeriğinde nitrat bulunur"],
 				"allergens": [
@@ -453,7 +453,7 @@
 		},
 		"PizzaBBQ": {
 			"name": "Pizza BBQ",
-			"description": "Barbekü sosu, kıyma, soğan ve mozzarella ile",
+			"description": "Barbekü sosu, dana kıyma, soğan ve mozzarella ile",
 			"productInfo": {
 				"allergens": [
 					"Buğday içerir",
@@ -518,6 +518,22 @@
 			"productInfo": {
 				"allergens": ["A-Gluten", "L-Yumuşakça", "M-Kabuklu Deniz Ürünleri"],
 				"substances": ["Deniz ürünleri", "Peynir"]
+			}
+		},
+		"AlForno": {
+			"name": "Al Forno",
+			"description": "Hindi jambonu, bezelye, mantar ve domates-kremalı sos ile",
+			"productInfo": {
+				"allergens": ["A-Glüten", "B-Yumurta", "E-Süt"],
+				"substances": ["Hindi jambonu", "Domates sosu"]
+			}
+		},
+		"AlFornoChicken": {
+			"name": "Al Forno",
+			"description": "Tavuk, bezelye, mantar ve domates-kremalı sos ile",
+			"productInfo": {
+				"allergens": ["A-Glüten", "B-Yumurta", "E-Süt"],
+				"substances": ["Tavuk", "Domates sosu"]
 			}
 		}
 	},
@@ -648,7 +664,7 @@
 	"meatDishes": {
 		"schnitzel": {
 			"name": "Ekmek Kaplamalı Şnitzel",
-			"description": "domuz şnitzeli ve patates kızartması ile",
+			"description": "tavuk şinitzel ve patates kızartması ile",
 			"productInfo": {
 				"allergens": [
 					"Gluten içeren tahıllar ve ürünler içerir",
@@ -746,7 +762,7 @@
 		},
 		"baguetteHam": {
 			"name": "Baget Jambon",
-			"description": "Pişmiş jambon, remoulade, marul, domates ve salatalık ile",
+			"description": "Hindi jambon, remoulade, marul, domates ve salatalık ile, dana salamı",
 			"productInfo": {
 				"substances": ["Koruyucu içerir", "Lezzet artırıcı içerir"],
 				"allergens": [

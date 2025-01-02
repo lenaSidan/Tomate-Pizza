@@ -39,20 +39,6 @@ const americana: Americana[] = [
 		},
 	},
 	{
-		name: 'americana.chickenBleu.name',
-		description: 'americana.chickenBleu.description',
-		image: 'chickenBleu.webp',
-		price: 10.9,
-		productInfo: {
-			allergens: [
-				'americana.chickenBleu.productInfo.allergens.0',
-				'americana.chickenBleu.productInfo.allergens.1',
-				'americana.chickenBleu.productInfo.allergens.2',
-				'americana.chickenBleu.productInfo.allergens.3',
-			],
-		},
-	},
-	{
 		name: 'americana.chickenCordonBleu.name',
 		description: 'americana.chickenCordonBleu.description',
 		image: 'chickenCordonBleu.webp',

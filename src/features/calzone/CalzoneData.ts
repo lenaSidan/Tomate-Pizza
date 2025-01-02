@@ -6,8 +6,8 @@ const calzone: Calzone[] = [
 		description: 'calzone.calzone.description',
 		image: 'calzone2.webp',
 		sizes: [
-			{ label: 'Klein', size: '26 cm', price: 8.5 },
-			{ label: 'Mittel', size: '32 cm', price: 10.5 },
+			{ label: 'Klein', size: '26 cm', price: 9.5 },
+			{ label: 'Mittel', size: '32 cm', price: 11.5 },
 		],
 		productInfo: {
 			substances: ['calzone.calzone.productInfo.substances.0'],
@@ -24,8 +24,8 @@ const calzone: Calzone[] = [
 		description: 'calzone.calzoneTomate.description',
 		image: 'calzone1.webp',
 		sizes: [
-			{ label: 'Klein', size: '26 cm', price: 8.5 },
-			{ label: 'Mittel', size: '32 cm', price: 10.5 },
+			{ label: 'Klein', size: '26 cm', price: 9.5 },
+			{ label: 'Mittel', size: '32 cm', price: 11.5 },
 		],
 		productInfo: {
 			substances: ['calzone.calzoneTomate.productInfo.substances.0'],

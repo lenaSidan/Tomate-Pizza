@@ -178,7 +178,7 @@
 		},
 		"PizzaSalami": {
 			"name": "Pizza Salami",
-			"description": "with spicy tomato sauce, cheese, and salami",
+			"description": "with spicy tomato sauce, cheese, and beef salami",
 			"productInfo": {
 				"substances": ["With preservatives", "With nitrite curing salt", "With antioxidant"],
 				"allergens": [
@@ -190,7 +190,7 @@
 		},
 		"PizzaProsciutto": {
 			"name": "Pizza Prosciutto",
-			"description": "with spicy tomato sauce, cheese, and cooked ham",
+			"description": "with spicy tomato sauce, cheese, and cooked turkey ham",
 			"productInfo": {
 				"allergens": [
 					"Contains gluten-containing grains/products",
@@ -237,7 +237,7 @@
 		},
 		"PizzaBroccoli": {
 			"name": "Pizza Broccoli",
-			"description": "with spicy tomato sauce, cheese, cooked ham, and broccoli",
+			"description": "with spicy tomato sauce, cheese, cooked turkey ham, and broccoli",
 			"productInfo": {
 				"substances": ["With preservatives", "With flavor enhancer"],
 				"allergens": [
@@ -249,7 +249,7 @@
 		},
 		"PizzaBolognese": {
 			"name": "Pizza Bolognese",
-			"description": "with fine Bolognese sauce and cheese",
+			"description": "with fine Bolognese sauce made from ground beef and cheese",
 			"productInfo": {
 				"allergens": [
 					"Contains gluten-containing grains/products",
@@ -275,7 +275,7 @@
 		},
 		"PizzaHawaii": {
 			"name": "Pizza Hawaii",
-			"description": "with spicy tomato sauce, cheese, cooked ham, and pineapple",
+			"description": "with spicy tomato sauce, cheese, turkey ham, and pineapple",
 			"productInfo": {
 				"substances": ["With preservatives", "With flavor enhancer"],
 				"allergens": [
@@ -301,7 +301,7 @@
 		},
 		"PizzaQuattroStagioni": {
 			"name": "Pizza Quattro Stagioni",
-			"description": "with spicy tomato sauce, cheese, spinach, salami, ham, mushrooms, and onions",
+			"description": "with spicy tomato sauce, cheese, spinach, beef salami, turkey ham, mushrooms, and onions",
 			"productInfo": {
 				"substances": [
 					"With preservatives",
@@ -318,7 +318,7 @@
 		},
 		"PizzaSchinkenSalami": {
 			"name": "Pizza Ham-Salami",
-			"description": "with cooked ham, salami, and peppers",
+			"description": "with turkey ham, beef salami, and chili peppers",
 			"productInfo": {
 				"substances": [
 					"With coloring",
@@ -336,7 +336,7 @@
 		},
 		"PizzaDiavolo": {
 			"name": "Pizza Diavolo",
-			"description": "with spicy tomato sauce, cheese, salami, bell peppers, onions, and jalapenos",
+			"description": "with spicy tomato sauce, cheese, beef salami, bell peppers, onions, and jalapenos",
 			"productInfo": {
 				"substances": ["With preservatives", "With nitrite curing salt", "With antioxidant"],
 				"allergens": [
@@ -416,7 +416,7 @@
 		},
 		"PizzaSardellen": {
 			"name": "Pizza Anchovies",
-			"description": "with anchovies, salami, peppers, olives, and garlic",
+			"description": "with anchovies, beef salami, peppers, olives, and garlic",
 			"productInfo": {
 				"substances": ["With nitrite curing salt and nitrate", "With nitrate"],
 				"allergens": [
@@ -453,7 +453,7 @@
 		},
 		"PizzaBBQ": {
 			"name": "Pizza BBQ",
-			"description": "with barbecue sauce, minced meat, onions, and mozzarella",
+			"description": "with barbecue sauce, ground beef, onions, and mozzarella",
 			"productInfo": {
 				"allergens": [
 					"Wheat",
@@ -518,6 +518,22 @@
 			"productInfo": {
 				"allergens": ["A-Gluten", "L-Molluscs", "M-Crustaceans"],
 				"substances": ["Seafood", "Cheese"]
+			}
+		},
+		"AlForno": {
+			"name": "Al Forno",
+			"description": "With turkey ham, peas, mushrooms, and tomato-cream sauce",
+			"productInfo": {
+				"allergens": ["A-Gluten", "B-Egg", "E-Milk"],
+				"substances": ["Turkey ham", "Tomato sauce"]
+			}
+		},
+		"AlFornoChicken": {
+			"name": "Al Forno",
+			"description": "With chicken, peas, mushrooms, and tomato-cream sauce",
+			"productInfo": {
+				"allergens": ["A-Gluten", "B-Egg", "E-Milk"],
+				"substances": ["Chicken", "Tomato sauce"]
 			}
 		}
 	},
@@ -648,7 +664,7 @@
 	"meatDishes": {
 		"schnitzel": {
 			"name": "Schnitzel Breaded",
-			"description": "pork schnitzel with french fries",
+			"description": "chicken schnitzel with french fries",
 			"productInfo": {
 				"allergens": [
 					"Contains cereals and products thereof containing gluten",
@@ -735,7 +751,7 @@
 		},
 		"baguetteSalami": {
 			"name": "Baguette Salami",
-			"description": "with remoulade, lettuce, tomatoes, cucumbers",
+			"description": "with remoulade, lettuce, tomatoes, cucumbers, beef salami",
 			"productInfo": {
 				"allergens": [
 					"Contains cereals and products thereof containing gluten",
@@ -746,7 +762,7 @@
 		},
 		"baguetteHam": {
 			"name": "Baguette Ham",
-			"description": "Boiled ham with remoulade, lettuce, tomatoes, cucumbers",
+			"description": "Turkey ham with remoulade, lettuce, tomatoes, cucumbers",
 			"productInfo": {
 				"substances": ["With preservative", "With flavor enhancer"],
 				"allergens": [

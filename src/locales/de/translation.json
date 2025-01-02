@@ -178,7 +178,7 @@
 		},
 		"PizzaSalami": {
 			"name": "Pizza Salami",
-			"description": "Mit würziger Tomatensauce, Käse und Salami",
+			"description": "Mit würziger Tomatensauce, Käse und Rindersalami",
 			"productInfo": {
 				"substances": [
 					"Mit Konservierungsstoffen",
@@ -194,7 +194,7 @@
 		},
 		"PizzaProsciutto": {
 			"name": "Pizza Prosciutto",
-			"description": "Mit würziger Tomatensauce, Käse und Vorderschinken",
+			"description": "Mit würziger Tomatensauce, Käse und Putenschinken",
 			"productInfo": {
 				"allergens": [
 					"Enthält glutenhaltige/s Getreide/-Erzeugnisse",
@@ -241,7 +241,7 @@
 		},
 		"PizzaBroccoli": {
 			"name": "Pizza Broccoli",
-			"description": "mit würziger Tomatensauce, Käse, Vorderschinken und Brokkoli",
+			"description": "mit würziger Tomatensauce, Käse, Putenschinken und Brokkoli",
 			"productInfo": {
 				"substances": ["Mit Konservierungsstoffen", "Mit Geschmacksverstärker"],
 				"allergens": [
@@ -253,7 +253,7 @@
 		},
 		"PizzaBolognese": {
 			"name": "Pizza Bolognese",
-			"description": "mit feiner Bolognesesauce und Käse",
+			"description": "mit feiner Bolognesesauce aus Rinderhackfleisch und Käse",
 			"productInfo": {
 				"allergens": [
 					"Enthält glutenhaltige/s Getreide/-Erzeugnisse",
@@ -279,7 +279,7 @@
 		},
 		"PizzaHawaii": {
 			"name": "Pizza Hawaii",
-			"description": "mit würziger Tomatensauce, Käse, Vorderschinken und Ananas",
+			"description": "mit würziger Tomatensauce, Käse, Putenschinken und Ananas",
 			"productInfo": {
 				"substances": ["Mit Konservierungsstoffen", "Mit Geschmacksverstärker"],
 				"allergens": [
@@ -305,7 +305,7 @@
 		},
 		"PizzaQuattroStagioni": {
 			"name": "Pizza Quattro Stagioni",
-			"description": "mit würziger Tomatensauce, Käse, Spinat, Salami, Schinken, Champignons und Zwiebeln",
+			"description": "mit würziger Tomatensauce, Käse, Spinat, Rindersalami, Putenschinken, Champignons und Zwiebeln",
 			"productInfo": {
 				"substances": [
 					"Mit Konservierungsstoffen",
@@ -322,7 +322,7 @@
 		},
 		"PizzaSchinkenSalami": {
 			"name": "Pizza Schinken-Salami",
-			"description": "mit Vorderschinken, Salami und Peperoni",
+			"description": "mit Putenschinken, Rindersalami und Peperoni",
 			"productInfo": {
 				"substances": [
 					"Mit Farbstoff",
@@ -340,7 +340,7 @@
 		},
 		"PizzaDiavolo": {
 			"name": "Pizza Diavolo",
-			"description": "mit würziger Tomatensauce, Käse, Salami, Paprika, Zwiebeln und Jalapenos",
+			"description": "mit würziger Tomatensauce, Käse, Rindersalami, Paprika, Zwiebeln und Jalapenos",
 			"productInfo": {
 				"substances": [
 					"Mit Konservierungsstoffen",
@@ -424,7 +424,7 @@
 		},
 		"PizzaSardellen": {
 			"name": "Pizza Sardellen",
-			"description": "mit Sardellen, Salami, Peperoni, Oliven und Knoblauch",
+			"description": "mit Sardellen, Rindersalami, Peperoni, Oliven und Knoblauch",
 			"productInfo": {
 				"substances": ["Mit Nitritpökelsalz und Nitrat", "Mit Nitrat"],
 				"allergens": [
@@ -461,7 +461,7 @@
 		},
 		"PizzaBBQ": {
 			"name": "Pizza BBQ",
-			"description": "mit Barbecue-Sauce, Hackfleisch, Zwiebeln und Mozzarella",
+			"description": "mit Barbecue-Sauce, Rinderhackfleisch, Zwiebeln und Mozzarella",
 			"productInfo": {
 				"allergens": [
 					"Weizen",
@@ -518,6 +518,22 @@
 			"productInfo": {
 				"allergens": ["A-Gluten", "B-Ei", "E-Milch"],
 				"substances": ["Schinken", "Sahnesauce"]
+			}
+		},
+		"AlForno": {
+			"name": "Al Forno",
+			"description": "Mit Putenschinken, Erbsen, Champignons, Tomaten-Sahnesauce",
+			"productInfo": {
+				"allergens": ["A-Gluten", "B-Ei", "E-Milch"],
+				"substances": ["Putenschinken", "Tomatensauce"]
+			}
+		},
+		"AlFornoChicken": {
+			"name": "Al Forno",
+			"description": "Mit Hänchen, Erbsen, Champignons, Tomaten-Sahnesauce",
+			"productInfo": {
+				"allergens": ["A-Gluten", "B-Ei", "E-Milch"],
+				"substances": ["Hänchen", "Tomaten-sauce"]
 			}
 		},
 		"FruttiDiMare": {
@@ -656,7 +672,7 @@
 	"meatDishes": {
 		"schnitzel": {
 			"name": "Schnitzel paniert",
-			"description": "Schweineschnitzel mit Pommes frites",
+			"description": "Hänchenschnitzel mit Pommes frites",
 			"productInfo": {
 				"allergens": [
 					"Enthält glutenhaltige/s Getreide/-Erzeugnisse",
@@ -743,7 +759,7 @@
 		},
 		"baguetteSalami": {
 			"name": "Baguette Salami",
-			"description": "mit Remoulade, Salat, Tomaten, Gurken",
+			"description": "mit Remoulade, Salat, Tomaten, Gurken, Rindersalami",
 			"productInfo": {
 				"allergens": [
 					"Enthält glutenhaltige/s Getreide/-Erzeugnisse",
@@ -754,7 +770,7 @@
 		},
 		"baguetteHam": {
 			"name": "Baguette Schinken",
-			"description": "Vorderschinken mit Remoulade, Salat, Tomaten, Gurken",
+			"description": "Putenschinken mit Remoulade, Salat, Tomaten, Gurken",
 			"productInfo": {
 				"substances": ["Mit Konservierungsstoffen", "Mit Geschmacksverstärker"],
 				"allergens": [

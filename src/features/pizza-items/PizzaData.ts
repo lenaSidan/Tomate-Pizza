@@ -7,8 +7,8 @@ const pizzas: Pizza[] = [
 		image: 'margarita.webp',
 		sizes: [
 			{ label: 'Klein', size: '26 cm', price: 7.0 },
-			{ label: 'Mittel', size: '32 cm', price: 8.5 },
-			{ label: 'Familie', size: '46×33 cm', price: 16.5 },
+			{ label: 'Mittel', size: '32 cm', price: 9.5 },
+			{ label: 'Familie', size: '46×33 cm', price: 17.5 },
 		],
 		productInfo: {
 			allergens: [
@@ -25,7 +25,7 @@ const pizzas: Pizza[] = [
 		sizes: [
 			{ label: 'Klein', size: '26 cm', price: 7.5 },
 			{ label: 'Mittel', size: '32 cm', price: 9.5 },
-			{ label: 'Familie', size: '46×33 cm', price: 17.5 },
+			{ label: 'Familie', size: '46×33 cm', price: 18.5 },
 		],
 		productInfo: {
 			allergens: [
@@ -40,8 +40,8 @@ const pizzas: Pizza[] = [
 		description: 'pizzas.PizzaSalami.description',
 		image: 'salami.webp',
 		sizes: [
-			{ label: 'Klein', size: '26 cm', price: 8.0 },
-			{ label: 'Mittel', size: '32 cm', price: 10.0 },
+			{ label: 'Klein', size: '26 cm', price: 8.5 },
+			{ label: 'Mittel', size: '32 cm', price: 10.5 },
 			{ label: 'Familie', size: '46×33 cm', price: 19.5 },
 		],
 		productInfo: {
@@ -62,8 +62,8 @@ const pizzas: Pizza[] = [
 		description: 'pizzas.PizzaProsciutto.description',
 		image: 'prosciutto.webp',
 		sizes: [
-			{ label: 'Klein', size: '26 cm', price: 8.0 },
-			{ label: 'Mittel', size: '32 cm', price: 10.0 },
+			{ label: 'Klein', size: '26 cm', price: 8.5 },
+			{ label: 'Mittel', size: '32 cm', price: 10.5 },
 			{ label: 'Familie', size: '46×33 cm', price: 19.5 },
 		],
 		productInfo: {
@@ -80,8 +80,8 @@ const pizzas: Pizza[] = [
 		description: 'pizzas.PizzaSpinaci.description',
 		image: 'spinaci.webp',
 		sizes: [
-			{ label: 'Klein', size: '26 cm', price: 8.0 },
-			{ label: 'Mittel', size: '32 cm', price: 10.0 },
+			{ label: 'Klein', size: '26 cm', price: 8.5 },
+			{ label: 'Mittel', size: '32 cm', price: 10.5 },
 			{ label: 'Familie', size: '46×33 cm', price: 19.5 },
 		],
 		productInfo: {
@@ -97,8 +97,8 @@ const pizzas: Pizza[] = [
 		description: 'pizzas.PizzaTonno.description',
 		image: 'tonno.webp',
 		sizes: [
-			{ label: 'Klein', size: '26 cm', price: 8.5 },
-			{ label: 'Mittel', size: '32 cm', price: 10.0 },
+			{ label: 'Klein', size: '26 cm', price: 9.0 },
+			{ label: 'Mittel', size: '32 cm', price: 11.0 },
 			{ label: 'Familie', size: '46×33 cm', price: 20.5 },
 		],
 		productInfo: {
@@ -115,8 +115,8 @@ const pizzas: Pizza[] = [
 		description: 'pizzas.PizzaTomate.description',
 		image: 'tomate.webp',
 		sizes: [
-			{ label: 'Klein', size: '26 cm', price: 8.0 },
-			{ label: 'Mittel', size: '32 cm', price: 10.0 },
+			{ label: 'Klein', size: '26 cm', price: 8.5 },
+			{ label: 'Mittel', size: '32 cm', price: 10.5 },
 			{ label: 'Familie', size: '46×33 cm', price: 19.5 },
 		],
 		productInfo: {
@@ -133,8 +133,8 @@ const pizzas: Pizza[] = [
 		description: 'pizzas.PizzaBroccoli.description',
 		image: 'broccoli.webp',
 		sizes: [
-			{ label: 'Klein', size: '26 cm', price: 8.5 },
-			{ label: 'Mittel', size: '32 cm', price: 10.5 },
+			{ label: 'Klein', size: '26 cm', price: 9.0 },
+			{ label: 'Mittel', size: '32 cm', price: 11.0 },
 			{ label: 'Familie', size: '46×33 cm', price: 20.5 },
 		],
 		productInfo: {
@@ -154,8 +154,8 @@ const pizzas: Pizza[] = [
 		description: 'pizzas.PizzaBolognese.description',
 		image: 'bolognese_pizza.webp',
 		sizes: [
-			{ label: 'Klein', size: '26 cm', price: 8.5 },
-			{ label: 'Mittel', size: '32 cm', price: 10.5 },
+			{ label: 'Klein', size: '26 cm', price: 9.0 },
+			{ label: 'Mittel', size: '32 cm', price: 11.0 },
 			{ label: 'Familie', size: '46×33 cm', price: 20.5 },
 		],
 		productInfo: {
@@ -174,8 +174,8 @@ const pizzas: Pizza[] = [
 		description: 'pizzas.PizzaRoma.description',
 		image: 'roma.webp',
 		sizes: [
-			{ label: 'Klein', size: '26 cm', price: 9.0 },
-			{ label: 'Mittel', size: '32 cm', price: 11.0 },
+			{ label: 'Klein', size: '26 cm', price: 9.5 },
+			{ label: 'Mittel', size: '32 cm', price: 11.5 },
 			{ label: 'Familie', size: '46×33 cm', price: 21.5 },
 		],
 		productInfo: {
@@ -195,8 +195,8 @@ const pizzas: Pizza[] = [
 		description: 'pizzas.PizzaHawaii.description',
 		image: 'hawaii.webp',
 		sizes: [
-			{ label: 'Klein', size: '26 cm', price: 8.5 },
-			{ label: 'Mittel', size: '32 cm', price: 10.5 },
+			{ label: 'Klein', size: '26 cm', price: 9.0 },
+			{ label: 'Mittel', size: '32 cm', price: 11.0 },
 			{ label: 'Familie', size: '46×33 cm', price: 20.5 },
 		],
 		productInfo: {
@@ -213,8 +213,8 @@ const pizzas: Pizza[] = [
 		description: 'pizzas.PizzaFruttiDiMare.description',
 		image: 'fruttiDiMare.webp',
 		sizes: [
-			{ label: 'Klein', size: '26 cm', price: 8.5 },
-			{ label: 'Mittel', size: '32 cm', price: 10.5 },
+			{ label: 'Klein', size: '26 cm', price: 9.0 },
+			{ label: 'Mittel', size: '32 cm', price: 11.0 },
 			{ label: 'Familie', size: '46×33 cm', price: 20.5 },
 		],
 		productInfo: {
@@ -233,8 +233,8 @@ const pizzas: Pizza[] = [
 		description: 'pizzas.PizzaQuattroStagioni.description',
 		image: 'quattroStagioni.webp',
 		sizes: [
-			{ label: 'Klein', size: '26 cm', price: 9.5 },
-			{ label: 'Mittel', size: '32 cm', price: 13.0 },
+			{ label: 'Klein', size: '26 cm', price: 10.0 },
+			{ label: 'Mittel', size: '32 cm', price: 13.5 },
 			{ label: 'Familie', size: '46×33 cm', price: 22.5 },
 		],
 		productInfo: {
@@ -255,9 +255,9 @@ const pizzas: Pizza[] = [
 		description: 'pizzas.PizzaSchinkenSalami.description',
 		image: 'schinkenSalami.webp',
 		sizes: [
-			{ label: 'Klein', size: '26 cm', price: 8.5 },
-			{ label: 'Mittel', size: '32 cm', price: 10.5 },
-			{ label: 'Familie', size: '46×33 cm', price: 20.5 },
+			{ label: 'Klein', size: '26 cm', price: 9.5 },
+			{ label: 'Mittel', size: '32 cm', price: 11.5 },
+			{ label: 'Familie', size: '46×33 cm', price: 21.5 },
 		],
 		productInfo: {
 			substances: [
@@ -279,8 +279,8 @@ const pizzas: Pizza[] = [
 		description: 'pizzas.PizzaDiavolo.description',
 		image: 'diavolo.webp',
 		sizes: [
-			{ label: 'Klein', size: '26 cm', price: 9.5 },
-			{ label: 'Mittel', size: '32 cm', price: 13.0 },
+			{ label: 'Klein', size: '26 cm', price: 10.0 },
+			{ label: 'Mittel', size: '32 cm', price: 13.5 },
 			{ label: 'Familie', size: '46×33 cm', price: 22.5 },
 		],
 		productInfo: {
@@ -301,8 +301,8 @@ const pizzas: Pizza[] = [
 		description: 'pizzas.PizzaPrimaVera.description',
 		image: 'primaVera.webp',
 		sizes: [
-			{ label: 'Klein', size: '26 cm', price: 8.5 },
-			{ label: 'Mittel', size: '32 cm', price: 10.5 },
+			{ label: 'Klein', size: '26 cm', price: 9.0 },
+			{ label: 'Mittel', size: '32 cm', price: 11.0 },
 			{ label: 'Familie', size: '46×33 cm', price: 20.5 },
 		],
 		productInfo: {
@@ -319,9 +319,9 @@ const pizzas: Pizza[] = [
 		description: 'pizzas.PizzaOrient.description',
 		image: 'orient.webp',
 		sizes: [
-			{ label: 'Klein', size: '26 cm', price: 8.5 },
-			{ label: 'Mittel', size: '32 cm', price: 10.5 },
-			{ label: 'Familie', size: '46×33 cm', price: 20.5 },
+			{ label: 'Klein', size: '26 cm', price: 9.0 },
+			{ label: 'Mittel', size: '32 cm', price: 11.5 },
+			{ label: 'Familie', size: '46×33 cm', price: 21.5 },
 		],
 		productInfo: {
 			allergens: [
@@ -337,7 +337,7 @@ const pizzas: Pizza[] = [
 		image: 'quattroFormaggi.webp',
 		sizes: [
 			{ label: 'Klein', size: '26 cm', price: 9.0 },
-			{ label: 'Mittel', size: '32 cm', price: 11.0 },
+			{ label: 'Mittel', size: '32 cm', price: 11.5 },
 			{ label: 'Familie', size: '46×33 cm', price: 21.5 },
 		],
 		productInfo: {
@@ -353,9 +353,9 @@ const pizzas: Pizza[] = [
 		description: 'pizzas.PizzaSchafskäse.description',
 		image: 'schafskäse.webp',
 		sizes: [
-			{ label: 'Klein', size: '26 cm', price: 8.5 },
-			{ label: 'Mittel', size: '32 cm', price: 10.5 },
-			{ label: 'Familie', size: '46×33 cm', price: 20.5 },
+			{ label: 'Klein', size: '26 cm', price: 9.0 },
+			{ label: 'Mittel', size: '32 cm', price: 11.5 },
+			{ label: 'Familie', size: '46×33 cm', price: 21.5 },
 		],
 		productInfo: {
 			allergens: [
@@ -370,9 +370,9 @@ const pizzas: Pizza[] = [
 		description: 'pizzas.PizzaShrimps.description',
 		image: 'shrimps.webp',
 		sizes: [
-			{ label: 'Klein', size: '26 cm', price: 8.5 },
-			{ label: 'Mittel', size: '32 cm', price: 10.5 },
-			{ label: 'Familie', size: '46×33 cm', price: 20.5 },
+			{ label: 'Klein', size: '26 cm', price: 9.0 },
+			{ label: 'Mittel', size: '32 cm', price: 11.5 },
+			{ label: 'Familie', size: '46×33 cm', price: 21.5 },
 		],
 		productInfo: {
 			allergens: [
@@ -388,9 +388,9 @@ const pizzas: Pizza[] = [
 		description: 'pizzas.PizzaDehli.description',
 		image: 'dehli.webp',
 		sizes: [
-			{ label: 'Klein', size: '26 cm', price: 8.5 },
-			{ label: 'Mittel', size: '32 cm', price: 10.5 },
-			{ label: 'Familie', size: '46×33 cm', price: 20.5 },
+			{ label: 'Klein', size: '26 cm', price: 9.0 },
+			{ label: 'Mittel', size: '32 cm', price: 11.5 },
+			{ label: 'Familie', size: '46×33 cm', price: 21.5 },
 		],
 		productInfo: {
 			allergens: [
@@ -486,9 +486,9 @@ const pizzas: Pizza[] = [
 		description: 'pizzas.PizzaGorgonzola.description',
 		image: 'gorgonzola.webp',
 		sizes: [
-			{ label: 'Klein', size: '26 cm', price: 8.5 },
-			{ label: 'Mittel', size: '32 cm', price: 10.5 },
-			{ label: 'Familie', size: '46×33 cm', price: 20.5 },
+			{ label: 'Klein', size: '26 cm', price: 9.0 },
+			{ label: 'Mittel', size: '32 cm', price: 11.5 },
+			{ label: 'Familie', size: '46×33 cm', price: 21.5 },
 		],
 		productInfo: {
 			allergens: [
@@ -503,9 +503,9 @@ const pizzas: Pizza[] = [
 		description: 'pizzas.PizzaVegetaria.description',
 		image: 'vegetaria.webp',
 		sizes: [
-			{ label: 'Klein', size: '26 cm', price: 9.0 },
-			{ label: 'Mittel', size: '32 cm', price: 11.0 },
-			{ label: 'Familie', size: '46×33 cm', price: 21.5 },
+			{ label: 'Klein', size: '26 cm', price: 9.5 },
+			{ label: 'Mittel', size: '32 cm', price: 13.0 },
+			{ label: 'Familie', size: '46×33 cm', price: 22.5 },
 		],
 		productInfo: {
 			substances: ['pizzas.PizzaVegetaria.productInfo.substances.0'],
