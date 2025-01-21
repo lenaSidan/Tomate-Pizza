@@ -101,7 +101,7 @@ const nonAlcoholicDrinks: NonAlcoholicDrinks[] = [
 		name: 'nonAlcoholicDrinks.apfelsaft.name',
 		description: 'nonAlcoholicDrinks.apfelsaft.description',
 		image: 'apfelsaft.webp',
-		price: 3.0,
+		price: 4.5,
 		productInfo: {
 			nutritionFacts: ['nonAlcoholicDrinks.apfelsaft.productInfo.nutritionFacts.0'],
 		},
@@ -110,7 +110,7 @@ const nonAlcoholicDrinks: NonAlcoholicDrinks[] = [
 		name: 'nonAlcoholicDrinks.orangensaft.name',
 		description: 'nonAlcoholicDrinks.orangensaft.description',
 		image: 'orangensaft.webp',
-		price: 3.0,
+		price: 4.5,
 		productInfo: {
 			nutritionFacts: ['nonAlcoholicDrinks.orangensaft.productInfo.nutritionFacts.0'],
 		},
